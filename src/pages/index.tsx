@@ -252,16 +252,6 @@ export default function Home() {
               data-scroll-speed=".06"
               className="flex flex-row items-center justify-center space-x-1.5 pt-6 pointer-events-auto"
             >
-              <Link href="mailto:aainasaddiqa25@gmail.com" passHref>
-                <Button>
-                  Get in touch <ChevronRight className="ml-1 h-4 w-4" />
-                </Button>
-              </Link>
-              <Link href="https://www.linkedin.com/in/aaina-saddiqa-88bb3033a" target="_blank" passHref>
-                <Button variant="outline">
-                  LinkedIn
-                </Button>
-              </Link>
               <Button
                 variant="outline"
                 onClick={() => scrollTo(document.querySelector("#about"))}

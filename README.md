@@ -50,6 +50,4 @@ Features a stunning dark glassmorphism aesthetic, interactive Spline 3D backgrou
 - `src/styles/` - Global styles and CSS modules
 - `public/assets/` - Static assets, images, and Spline 3D models
 
-## 🤝 Let's Connect
-- **LinkedIn:** [Aaina Saddiqa](https://www.linkedin.com/in/aaina-saddiqa-88bb3033a)
-- **Email:** aainasaddiqa25@gmail.com
+
