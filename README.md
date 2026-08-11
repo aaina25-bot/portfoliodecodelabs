@@ -1,4 +1,4 @@
-# Aaina Saddiqa - Developer Portfolio
+ Developer Portfolio
 
 A premium, interactive, and highly responsive 3D developer portfolio built with Next.js, React, Tailwind CSS, and Framer Motion. 
 Features a stunning dark glassmorphism aesthetic, interactive Spline 3D backgrounds, and smooth scroll animations.
