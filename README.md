@@ -42,7 +42,7 @@ Features a stunning dark glassmorphism aesthetic, interactive Spline 3D backgrou
    ```bash
    pnpm dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
 
 ## 📁 Project Structure
 - `src/pages/index.tsx` - Main single-page layout
