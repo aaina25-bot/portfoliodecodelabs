@@ -9,11 +9,16 @@ Features a stunning dark glassmorphism aesthetic, interactive Spline 3D backgrou
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](./public/assets/frontend_art.png)
+![Hero Section](./public/screenshots/hero.png)
+
+### About & Skills
+![About Section](./public/screenshots/about.png)
 
 ### Projects Showcase
-![CareerHub](./public/assets/careerhub%20project.png)
-![CraveBun](./public/assets/cravebun%20project.png)
+![Projects Section](./public/screenshots/projects.png)
+
+### Services
+![Services Section](./public/screenshots/services.png)
 
 ## 🚀 Technologies Used
 - **Framework:** Next.js (React)
